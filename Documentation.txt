@@ -1,0 +1,274 @@
+Name: Goutham M
+Date:24-09-2024
+Description:Creating and validating the addressbook.
+
+1.Create contact:
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 1
+Enter name:Puneeth Rajkumar
+Enter number:8098789809
+Enter email:puneeth17@gmail.com
+
+Address Book Menu:
+1. Create contact
+2. Search contact
+3. Edit contact
+4. Delete contact
+5. List all contacts
+6. Save contacts
+7. Exit
+Enter your choice: 6
+Saving and Exiting...
+
+2.Search Contact:
+Enter your choice: 2
+Enter your choise to search: 
+1.Name 
+ 2.Mobile number 
+ 3.Email id 1
+Enter the name : Goutham
+ Name: Goutham
+ Phone: 8867569878
+
+ If multiple contacts are there:
+ Enter your choise to search: 
+1.Name 
+ 2.Mobile number 
+ 3.Email id 1
+Enter the name : charan
+ Name: Charan
+ Phone: 9878675463
+ email: charan876@gmail.com
+ Name: charan
+ Phone: 9934556117
+ email: charan646@gmail.com
+Multiple contacts found. Please enter the mobile number: 9878675463
+ Name: Charan
+ Phone: 9878675463
+ email: charan876@gmail.com
+
+Searching using mobile number:
+ Enter your choice: 2
+Enter your choise to search: 
+1.Name 
+ 2.Mobile number 
+ 3.Email id 2
+Enter the mobile number: 9956442276
+ Name: Smriti Mandhana
+ Phone: 9956442276
+ email: smriti65@gmail.com
+
+ Searching using Email id:
+ Enter your choice: 2
+Enter your choise to search: 
+1.Name 
+ 2.Mobile number 
+ 3.Email id 3
+Enter the Email id:manju56@gmail.com
+ Name: Manju Bharath
+ Phone: 9912304536
+ email: manju56@gmail.com
+
+3.Edit contact:
+Enter your choice: 3
+Search by:
+1.Name
+2.Phone
+3.Email
+4.Go back
+Enter choice:1
+Enter name to edit:charan
+
+Charan 9878675463 charan876@gmail.com
+charan 9934556117 charan646@gmail.com
+Multiple names are present!
+Enter phone number to confirm:9934556117
+Enter new name:Charan Raj
+Enter new Phone number:9934446228
+Enter new Email:charan77@gmail.com
+Contact edited successfully
+
+Editing using mobile number:
+Enter your choice: 3
+Search by:
+1.Name
+2.Phone
+3.Email
+4.Go back
+Enter choice:2
+Enter phone number to edit:5598342265
+
+Shreyas 5598342265 shreyas567@gmail.com
+Enter new name:Shreyas
+Enter new Phone number:9989786745
+Enter new Email:shreyas567@gmail.com
+Same email is present!
+Enter new Email:shreyas23@gmail.com
+Contact edited successfully
+
+Editing using Email id:
+Enter your choice: 3
+Search by:
+1.Name
+2.Phone
+3.Email
+4.Go back
+Enter choice:3
+Enter Email to edit:shetty56@gmail.com
+
+Rishab Shetty 8769879873 shetty56@gmail.com
+Enter new name:Rishab Shetty
+Enter new Phone number:8769879873
+Same number is present!
+Enter new Phone number:8879678598
+Enter new Email:rshetty56@gmail.com
+Contact edited successfully
+
+4.Delete contact:
+Deleting by name
+Enter your choice: 4
+Enter your choise to delete: 
+1.Name 
+ 2.Mobile number 
+ 3.Email id 1
+Enter name to delete:charan
+Multiple contacts found!! Please enter the mobile number9934446228
+
+Deleting by mobile number:
+Enter your choise to delete: 
+1.Name 
+ 2.Mobile number 
+ 3.Email id 2
+Enter the mobile number: 8055786743
+
+Deleting by email id:
+Enter your choise to delete: 
+1.Name 
+ 2.Mobile number 
+ 3.Email id 3
+Enter the Email idjoseng34@gmail.com
+
+5.List all contacts
+Enter your choice: 5
+                Contact 1
+
+ Name: Goutham
+ Phone: 8867569878
+ email: gou23@gmail.com
+
+                Contact 2
+
+ Name: Akshay
+ Phone: 9978654323
+ email: aks65@gmail.com
+
+                Contact 3
+
+ Name: Charan
+ Phone: 9878675463
+ email: charan876@gmail.com
+
+                Contact 4
+
+ Name: Ganesh
+ Phone: 9985765896
+ email: gani654@gmail.com
+
+                Contact 5
+
+ Name: Manju Bharath
+ Phone: 9912304536
+ email: manju56@gmail.com
+
+                Contact 6
+
+ Name: Hemanth
+ Phone: 7768549834
+ email: hemanth123@gmail.com
+
+                Contact 7
+
+ Name: Shreyas
+ Phone: 9989786745
+ email: shreyas23@gmail.com
+
+                Contact 8
+
+ Name: Charan
+ Phone: 9934446228
+ email: charan77@gmail.com
+
+                Contact 9
+
+ Name: Smriti Mandhana
+ Phone: 9956442276
+ email: smriti65@gmail.com
+
+                Contact 10
+
+ Name: Shreyanka Patil
+ Phone: 8055786743
+ email: patil456@gmail.com
+
+                Contact 11
+
+ Name: Virat Kohli
+ Phone: 5633269809
+ email: kohli18@gmail.com
+
+                Contact 12
+
+ Name: Jos Buttler
+ Phone: 9934551221
+ email: joseng34@gmail.com
+
+                Contact 13
+
+ Name: Shubman Gill
+ Phone: 6678440983
+ email: gilly21@gmail.com
+
+                Contact 14
+
+ Name: Harshith
+ Phone: 9066783421
+ email: harshith69@gmail.com
+
+                Contact 15
+
+ Name: Prithvi Naidu
+ Phone: 8097891235
+ email: naidu699@gmail.com
+
+                Contact 16
+
+ Name: Kiccha Sudeep
+ Phone: 8898779867
+ email: kiccha645@gmail.com
+
+                Contact 17
+
+ Name: Rishab Shetty
+ Phone: 8879678598
+ email: rshetty56@gmail.com
+
+                Contact 18
+
+ Name: Kannur Lokesh Rahul
+ Phone: 9789880928
+ email: rahulKL45@gmail.com
+
+                Contact 19
+
+ Name: Puneeth Rajkumar
+ Phone: 8098789809
+ email: puneeth17@gmail.com
+
+ 
